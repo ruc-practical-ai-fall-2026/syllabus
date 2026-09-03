@@ -194,7 +194,7 @@ This course will be taught from current literature. References will be distribut
 ## Ethical Use of AI Technologies and Large Language Models
 
 Large Language Models (LLMs), e.g., ChatGPT, and other AI technologies are powerful tools that are accessible to all. Use of LLMs is encouraged in this course and setup of AI coding tools will be reviewed as part of the course material. However, you are responsible for the work you turn in and the grade that it receives. Work will be held to professional standards and evaluations will be designed to ensure students understand material rather than memorize course notes. Use of LLMs that results in unprofessional code, documentation, or project materials will be penalized in grading. Examples of unprofessional use of LLMs include:
-* Direct copy and paste of LLM output
+* Direct copy and paste of LLM output without human editing or review
 * Use of emojis from LLM output in contexts where emojis are not appropriate (e.g., technical reports)
 * Pasting LLM-generated code where it does not belong (e.g., in the wrong file)
 * Answering multiple questions in a manner that is inconsistent, showing lack of reasoning applied to answers
